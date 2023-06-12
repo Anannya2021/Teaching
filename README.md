@@ -33,3 +33,25 @@ Exercises  | exercises.ipynb
 Here are the sections:
 
 * [Data Science Cheatsheets](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Intro To Python](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Python Fundamentals](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+
+# Intro To Python
+------------------------------------------------------------------------------------------------------------------------------
+This section contains cheatsheets of basic concepts and data structures of Python:
+
+* [Lists](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Tuples](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Sets](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Dictionaries](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Binary Trees](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+# Python Fundamentals
+------------------------------------------------------------------------------------------------------------------------------
+This section contains cheatsheets of foundational Python:
+
+* [Conditional Loops](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [For Loops](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [While Loops](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Iterating over Dictionaries](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
