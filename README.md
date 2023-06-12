@@ -16,6 +16,7 @@ Chapter Outline
     * Episodic versus continuing tasks
     
 * RL terminology: return, policy, and value function
+
  * The return
  * Policy
  * Value function
