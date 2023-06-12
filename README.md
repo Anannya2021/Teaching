@@ -28,3 +28,9 @@ Topic  | Description | Link
 Lesson  | Intro to Python 1.02 Control Flow.ipynb
 Lesson  |  starter-code.ipynb 
 Exercises  | exercises.ipynb
+
+
+Here are the sections:
+
+* [Data Science Cheatsheets:]
+*(https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
