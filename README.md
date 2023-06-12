@@ -22,3 +22,9 @@ Chapter Outline
  * Value function
 
 Dynamic programming using the Bellman equation
+
+Topic  | Description | Link
+------------- | -------------
+Lesson  | Intro to Python 1.02 Control Flow.ipynb
+Lesson  |  starter-code.ipynb 
+Exercises  | exercises.ipynb
