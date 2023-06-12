@@ -8,8 +8,8 @@ Chapter Outline
 * Introduction: learning from experience
 
   * Understanding reinforcement learning
-  -Defining the agent-environment interface of a reinforcement learning system
-  -The theoretical foundations of RL
+  * Defining the agent-environment interface of a reinforcement learning system
+  * The theoretical foundations of RL
 Markov decision processes
 The mathematical formulation of Markov decision processes
 Visualization of a Markov process
