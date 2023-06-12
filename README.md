@@ -39,13 +39,18 @@ Here are the sections:
 
 # Intro To Python
 ------------------------------------------------------------------------------------------------------------------------------
-This section contains cheatsheets of basic concepts and data structures of Python:
+This section contains cheatsheets of data structures in Python:
 
 * [Lists](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 * [Tuples](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 * [Sets](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 * [Dictionaries](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 * [Binary Trees](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Hash Tables](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+This section contains cheatsheets of algorithms in Python:
+
+* [Big O Notation](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
 # Python Fundamentals
 ------------------------------------------------------------------------------------------------------------------------------
