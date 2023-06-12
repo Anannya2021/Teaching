@@ -18,6 +18,6 @@ Chapter Outline
 * RL terminology: return, policy, and value function
  * The return
  * Policy
-** Value function
+ * Value function
 
 Dynamic programming using the Bellman equation
