@@ -5,7 +5,7 @@ Chapter 2: Python Control Flow
 
 Chapter Outline
 
--Introduction: learning from experience
+* Introduction: learning from experience
 
   -Understanding reinforcement learning
   -Defining the agent-environment interface of a reinforcement learning system
