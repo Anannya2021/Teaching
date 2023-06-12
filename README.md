@@ -32,5 +32,4 @@ Exercises  | exercises.ipynb
 
 Here are the sections:
 
-* [Data Science Cheatsheets:]
-*(https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+* [Data Science Cheatsheets](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
