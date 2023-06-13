@@ -24,7 +24,7 @@ Chapter Outline
 Dynamic programming using the Bellman equation
 
 Topic  | Description | Course Link | Format
-| :--- | ---: | :--- | ---: :
+| :--- | ---: | :--- | ---: 
 Lesson  | Intro to Python 1.02 Control Flow.ipynb | https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md | YouTube playlist 
 Lesson  |  starter-code.ipynb | https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md | Website
 Exercises  | exercises.ipynb | https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md | website
